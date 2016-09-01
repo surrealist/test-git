@@ -1,6 +1,6 @@
 ## CarFuel App
 
-This is my first app.
+This is my first app. Blah blah.
 
 ### Features
 
@@ -15,3 +15,5 @@ Currently support Features
 ### Credits
 
 Developed by Suthep S.
+
+Modified: September 1, 2016.
