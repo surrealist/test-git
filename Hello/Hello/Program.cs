@@ -1,14 +1,14 @@
-﻿using System; 
+﻿using System;
 
 namespace Hello {
-    class Program {
-        static void Main(string[] args) {
-            string name;
+  class Program {
+    static void Main(string[] args) {
+      string name;
 
-            Console.Write("Your Name: ");
-            name = Console.ReadLine();
+      Console.Write("Your Name: ");
+      name = Console.ReadLine();
 
-            Console.WriteLine($"Hello, {name}!");
-        }
+      Console.WriteLine($"Hello, {name}!");
     }
+  }
 }
