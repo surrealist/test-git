@@ -15,5 +15,5 @@ Currently support Features
 ### Credits
 
 Developed by Suthep S.
-
-Modified: September 1, 2016.
+ 
+Last Modified: September 1, 2016.
